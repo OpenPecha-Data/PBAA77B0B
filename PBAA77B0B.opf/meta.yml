@@ -1,0 +1,52 @@
+id: PBAA77B0B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA2DB4568
+  instance_id: http://purl.bdrc.io/resource/IE2DB4568
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ་（དཔེ་བསྡུར་མ）། བསོད་ནམས་རྩེ་མོ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - sa jia wu zu quan ji dui kan ben
+  author: http://purl.bdrc.io/resource/P1618
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1e03169f1f0a4899a8f6faabccd4e47c:
+      title: པོད ༤་གསུང་འབུམ་（དཔེ་བསྡུར་མ）། བསོད་ནམས་རྩེ་མོ།
+      volume_number: 4
+      base_file: UT2DB4568_I1PD34011_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE009BC5E541A9C32
+      image_group: I1PD34011
+      quality: Low
+    9a5bcc6a14fa451ebde2599ee8134169:
+      title: པོད ༡་གསུང་འབུམ་（དཔེ་བསྡུར་མ）། བསོད་ནམས་རྩེ་མོ།
+      volume_number: 1
+      base_file: UT2DB4568_I1PD34008_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2DE6EEC450ECC521
+      image_group: I1PD34008
+      quality: Low
+    ca88aa58f5e142cc986b22f74dc11c4a:
+      title: པོད ༣་གསུང་འབུམ་（དཔེ་བསྡུར་མ）། བསོད་ནམས་རྩེ་མོ།
+      volume_number: 3
+      base_file: UT2DB4568_I1PD34010_0000.txt
+      reference: http://purl.bdrc.io/resource/VL68CC2A1E39704BB3
+      image_group: I1PD34010
+      quality: Low
+    fa3113eaa94b43249d2c0d668f8e660d:
+      title: པོད ༢་གསུང་འབུམ་（དཔེ་བསྡུར་མ）། བསོད་ནམས་རྩེ་མོ།
+      volume_number: 2
+      base_file: UT2DB4568_I1PD34009_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0FEAC8A3794759B4
+      image_group: I1PD34009
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW2DB4568
+  - http://purl.bdrc.io/resource/W2DB4568
+  ocr_software: Namsel
+created_at: '2021-12-22T11:13:42.070938'
+last_modified_at: '2021-12-22T11:13:42.070945'
